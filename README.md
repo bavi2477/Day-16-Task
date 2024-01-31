@@ -4,7 +4,6 @@ This simple web page features a countdown timer that counts down from 10 seconds
 
 ## Table of Contents
 - [Description](#description)
-- [Preview](#preview)
 - [Features](#features)
 - [Usage](#usage)
 
